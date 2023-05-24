@@ -9,7 +9,7 @@ Email: asarup@ucsd.edu
 
 In this lab report, I'm going to explore some different options that can be used with the `grep` command that modify the basic output of returning lines matched to a given substring. Using `man grep`, you can already see that there are a ton of different options that literally vary from `-a` to `-z` (including some capitalized variations) that each have unique effects.
 
-Note: All of the following options were ones that I picked myself after finding them by using `man grep` and reading about their effects. I experimented with them until I found suitable options with accompanying examples. No external sources were used.
+**Note: All of the following options were ones that I picked myself after finding them by using `man grep` and reading about their effects. I experimented with them until I found suitable options with accompanying examples. No external sources were used.**
 
 ## Using `-c`
 
