@@ -99,7 +99,7 @@ Legal Center at 205 N. 400 West is a project of "And Justice for
 Community Legal Center is the first joint office project of public
 become one of the major supporters of the project.
 ```
-Using `-w` here eliminated the extra line that matched the word `projected` to the keyword `project`, thus returning 3 lines instead of 4. 
+Using `-w` here eliminated the extra line that matched the word "projected" to the keyword "project", thus returning 3 lines instead of 4. 
 
 
 ## Using `-n`
