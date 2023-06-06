@@ -33,7 +33,7 @@ It seems like the problem might not be the `DocSearchServer` file, but your `sta
 
 ## Student Resolution
 Seems like that was the issue. I was passing `$2` before `$1` in my `java` command, which mixed up `args[0]` and `args[1]`. Once I fixed it it ran just fine. 
-![Fixed bug](fixed_bug.jpg)
+![Fixed bug](fixed_bug.png)
 Thanks for the help!
 
 
